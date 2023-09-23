@@ -1,5 +1,5 @@
 # Simplify-Perpus
-Website Sistem Perpustakaan Simple dan Sederhana Dengan Native PHP
+Website Sistem Perpustakaan Simple dan Sederhana Dengan Native PHP, Repository ini merupakan Tugas-7 atau C-007 dari [Pelatihan VSGA-2023 dari Kominfo](https://github.com/Id-Yuu/id-vsga-jwd-b1). 
 
 ## Preview
 ![Preview1](./screenshots/01.jpeg)
